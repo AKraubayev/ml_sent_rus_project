@@ -83,3 +83,4 @@ def predict(text):
 **[RuSentiment](http://text-machine.cs.uml.edu/projects/rusentiment/)**
 
 > A. Rogers A. Romanov A. Rumshisky S. Volkova M. Gronas A. Gribov RuSentiment: An Enriched Sentiment Analysis Dataset for Social Media in Russian. Proceedings of COLING 2018.
+#New things
